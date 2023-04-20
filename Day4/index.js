@@ -1,13 +1,17 @@
-// let, const, var
+let, const, var
 
-let number = 1;
+// let number = 1;
 
-function name() {
-  let name = "harry";
-  const num = 10;
-  var usn = 10001010;
-}
 
+FUNCTION
+// function name() {
+//   let name = "harry";
+//   const num = 10;
+//   var usn = 10001010;
+// }
+
+
+CONSOLE.LOG, ARRAY, OBJECTS
 // console.log(name)
 // console.log(num)
 // console.log(usn)
@@ -24,10 +28,14 @@ function name() {
 //     }
 // }
 
+
+
 // console.log(myDictionary.gmail['firstEmail'])
 
 // console.log(myDictionary.gmail[0])
 
+
+ARTHEMATIC OPERATOR
 // let add = 10 + 20
 // let sub = 20 - 10
 // let mul = 10 * 10
@@ -36,10 +44,11 @@ function name() {
 // let add2 = add++
 // let sub2 = sub--
 
-// const d = new Date("2021-03-25");
-// console.log(d.getMonth());
+
+if else
 
 // let a = 10
+
 
 // if (a>10){
 //     console.log("Limit exceeded")
@@ -54,7 +63,7 @@ function name() {
 
 
 
-// FOR LOOP ( FOR IN ) USED ONLY WITH OBJECTS
+FOR LOOP ( FOR IN ) USED ONLY WITH OBJECTS
 
 
 // const data = {
@@ -71,7 +80,7 @@ function name() {
 
 
 
-// FOR LOOP ( FOR OF ) USED ONLY WITH ARRAY
+FOR LOOP ( FOR OF ) USED ONLY WITH ARRAY
 
 // const arr = [1, 2, 3, 4, 5]
 
@@ -81,11 +90,15 @@ function name() {
 
 // a = 11
 
+
+WHILE LOOP
 // while(a>10){
 //     console.log("Hello")
 //     a--
 // }
 
+
+String() and parseInt()
 // var a = "0"
 // var b = 0
 // if (parseInt(a) == b){
@@ -95,5 +108,5 @@ function name() {
 // }
 
 
-
+typeof()
 // console.log(typeof(a))
