@@ -1,11 +1,10 @@
 React Installation
 Folder architecture
 Components, import and export
-routing
-onchange, onclick functions
-fat arrow function
-Props, use state, use effect, use params, use location
-spread operator, ternary operator
-map, reduce, filter
+Routing, props, onclick
+Use state, use effect
+onchange
+fat arrow function, spread operator
+use params, use location, ternary operator
+map function
 axios
-Bonus: Redux
